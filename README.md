@@ -1,2 +1,2 @@
 # test-repo
-demo
+this is a learning demo for git
